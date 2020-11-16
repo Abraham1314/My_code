@@ -1,0 +1,14 @@
+2020-11-03 21:47:23,411 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2020-11-04 16:11:03,699 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-04 16:23:10,362 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @780496ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-11-04 16:23:10,649 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-08-03T13:24:06.825Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 15+36-1562
+2020-11-04 16:23:10,692 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-11-04 16:23:10,692 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-11-04 16:23:10,695 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2020-11-04 16:23:10,749 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6d0c8512{/help,null,AVAILABLE}
+2020-11-04 16:23:10,804 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5b9cdf40{HTTP/1.1, (http/1.1)}{127.0.0.1:50004}
+2020-11-04 16:23:10,805 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @780943ms
+2020-11-04 16:23:10,805 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2020-11-04 16:43:16,495 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5b9cdf40{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2020-11-04 16:43:16,500 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2020-11-04 16:43:16,520 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6d0c8512{/help,null,UNAVAILABLE}

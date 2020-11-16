@@ -1,0 +1,8 @@
+tuple=('温职源','WZY','Abraham')
+tinytuple=(123,"温职源")
+print(tuple)
+print(tuple[0])
+print(tuple[::-1])
+print(tuple[1:])
+print(tinytuple*2)
+print(tuple+tinytuple)

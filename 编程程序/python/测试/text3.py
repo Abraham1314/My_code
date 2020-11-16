@@ -1,0 +1,8 @@
+a=eval(input("请输入你想判断的数据a:"))
+b=eval(input("请输入你想判断的数据b:"))
+c=eval(input("请输入你想判断的数据c:"))
+d=eval(input("请输入你想判断的数据d:"))
+print("a的类型为{}".format(type(a)))
+print("b的类型为{}".format(type(b)))
+print("c的类型为{}".format(type(c)))
+print("d的类型为{}".format(type(d)))
